@@ -6,3 +6,5 @@ I have used Latent Dirichlet Association (LDA), a topic modelling NLP technique 
 This was followed by some exploratory data analysis. I then tried out a  few unsupervised clustering methods such as kMeans, DBSCAN,
 hierarchical clustering and LDA and proceeded to compare the results. This was followed by a discussion of key insights and potential directions for 
 treatments and vaccines. 
+
+This was carried out as part of my final assessment toward the course MIE 1624: Introduction to Data Science & Analytics offered at the University of Toronto. All of the work shown here is my own and please do not reproduce or replicate without my permission. 
